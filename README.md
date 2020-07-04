@@ -12,4 +12,4 @@ This example shows _11ty_ and _Netlify_.
 
 ## Who made it
 
-**Makzan**, 2020.
+**Leann**, 2020.
